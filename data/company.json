@@ -1,0 +1,23 @@
+[
+  {
+    "name": "PLN",
+    "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_PLN.png",
+    "location": "Jakarta Pusat",
+    "email": "pln123@gmail.com",
+    "description": "Badan usaha milik negara ( BUMN )"
+  },
+  {
+    "name": "Starbucks",
+    "companyLogo": "https://img2.pngdownload.id/20181116/lia/kisspng-logo-starbucks-coffee-singapore-pte-ltd-starbucks-5bee5b7fa5af73.3638767815423476476787.jpg",
+    "location": "Jakarta Pusat",
+    "email": "starbucks@gmail.com",
+    "description": "Bisa membuat kopi"
+  },
+  {
+    "name": "KFC",
+    "companyLogo": "https://seeklogo.com/images/K/kfc-logo-481740F210-seeklogo.com.png",
+    "location": "Jakarta Pusat",
+    "email": "KFC@gmail.com",
+    "description": "Menyajikan makanan"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Engineer",
+    "description": "Engineer Pemeliharaan Jaringan Menyusun laporan secara berkala sesuai bidang tugasnya sebagai pertanggung jawaban pelaksanaan tugas.",
+    "imgUrl": "https://pbs.twimg.com/media/Ct5CfxdVYAEg87w.jpg",
+    "companyId": 1,
+    "authorId": 1,
+    "jobType": "Fulltime"
+  },
+  {
+    "title": "Barista",
+    "description": "Mengetahui tentang kopi dan cara pembuatannya",
+    "imgUrl": "https://pbs.twimg.com/media/C8PWk1NVYAAK9Qd.jpg",
+    "companyId": 2,
+    "authorId": 2,
+    "jobType": "Fulltime"
+  },{
+    "title": "Supervisor",
+    "description": "Mampu memantau dan mengontrol karyawan pada saat restaurant dijalankan",
+    "imgUrl": "https://tenagakerja.jogjakota.go.id/resources/img/lowongan/20200122155814.jpg",
+    "companyId": 3,
+    "authorId": 3,
+    "jobType": "Fulltime"
+  }
+]

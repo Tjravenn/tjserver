@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Raven",
+    "email": "raven@gmail.com",
+    "password": "123456",
+    "role": "Admin",
+    "phoneNumber": "0812345678",
+    "address": "Jakarta Selatan"
+  },
+  {
+    "username": "Roxy",
+    "email": "roxy@gmail.com",
+    "password": "12345678",
+    "role": "Staff",
+    "phoneNumber": "0815678899",
+    "address": "Jakarta Utara"
+  },
+  {
+    "username": "Roro",
+    "email": "roro@gmail.com",
+    "password": "12345678",
+    "role": "Staff",
+    "phoneNumber": "0812309879",
+    "address": "Jakarta Barat"
+  }
+]
